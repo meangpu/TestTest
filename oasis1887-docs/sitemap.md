@@ -12,4 +12,4 @@
 
 - [ข้อกำหนดในการใช้บริการเซิร์ฟเวอร์](https://oasis1886.gitbook.io/oasis1887-docs/oasis-rule/oasis-terms-of-service/undefined.md)
 
-* [GUIDE](https://oasis1886.gitbook.io/oasis1887-docs/oasis-rule/oasis-guide/guide.md): การแนะนำระบบต่างๆภายในเมือง รวมถึงวิธีการใช้ชีวิต คำพูด การดำเนินสตอรี่ต่างๆ
+* [GUIDE](https://oasis1886.gitbook.io/oasis1887-docs/oasis-rule/oasis-guide/guide.md): การแนะนำการใช้ชีวิตเบื้องต้นภายในเมือง รวมถึงวิธีการใช้ชีวิต คำพูด การดำเนินสตอรี่ต่างๆ
